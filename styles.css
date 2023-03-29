@@ -23,9 +23,10 @@ header {
 
 #ramen-menu {
   display: flex;
-  overflow-x: auto;
+  /* overflow-x: auto; */
   margin: 1rem 0;
   max-width: calc(100vw - 2rem);
+  height: 150px;
 }
 
 #ramen-menu img {
